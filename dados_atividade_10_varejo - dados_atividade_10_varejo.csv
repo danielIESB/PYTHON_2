@@ -1,0 +1,301 @@
+id_pedido,produto,categoria,qtd,preco_unit,cliente_uf
+1000,Teclado,Periféricos,,250.0,RS
+1001,Cadeira Gamer,Móveis,1.0,1200.0,RJ
+1002,Mouse,Periféricos,1.0,120.0,RS
+1003,Cadeira Gamer,Móveis,1.0,1200.0,MG
+1004,Cadeira Gamer,Móveis,2.0,1200.0,RS
+1005,Monitor,Eletrônicos,1.0,800.0,BA
+1006,Mouse,Periféricos,3.0,120.0,SP
+1007,Mouse,Periféricos,,120.0,RS
+1008,Mouse,Periféricos,1.0,120.0,RS
+1009,Cadeira Gamer,Móveis,3.0,1200.0,SP
+1010,Teclado,Periféricos,1.0,250.0,BA
+1011,Mouse,Periféricos,2.0,120.0,RJ
+1012,Mesa Office,Móveis,1.0,600.0,
+1013,Cadeira Gamer,Móveis,2.0,1200.0,SP
+1014,Monitor,Eletrônicos,1.0,800.0,MG
+1015,Teclado,Periféricos,2.0,250.0,SP
+1016,Mesa Office,Móveis,1.0,600.0,MG
+1017,Mesa Office,Móveis,,600.0,BA
+1018,Monitor,Eletrônicos,2.0,800.0,RJ
+1019,Teclado,Periféricos,2.0,250.0,SP
+1020,Cadeira Gamer,Móveis,5.0,1200.0,SC
+1021,Smartphone,Eletrônicos,1.0,1500.0,RS
+1022,Teclado,Periféricos,1.0,250.0,BA
+1023,Monitor,Eletrônicos,,800.0,SP
+1024,Mesa Office,Móveis,2.0,600.0,RS
+1025,Cadeira Gamer,Móveis,1.0,1200.0,SP
+1026,Teclado,Periféricos,1.0,250.0,
+1027,Smartphone,Eletrônicos,3.0,1500.0,SP
+1028,Smartphone,Eletrônicos,5.0,1500.0,SC
+1029,Mouse,Periféricos,3.0,120.0,SP
+1030,Mouse,Periféricos,3.0,120.0,SP
+1031,Monitor,Eletrônicos,3.0,800.0,SC
+1032,Teclado,Periféricos,3.0,250.0,BA
+1033,Teclado,Periféricos,3.0,250.0,SP
+1034,Mesa Office,Móveis,2.0,600.0,SC
+1035,Mesa Office,Móveis,1.0,600.0,RS
+1036,Mesa Office,Móveis,3.0,600.0,MG
+1037,Mouse,Periféricos,1.0,120.0,MG
+1038,Teclado,Periféricos,1.0,250.0,SP
+1039,Teclado,Periféricos,1.0,250.0,BA
+1040,Smartphone,Eletrônicos,,1500.0,BA
+1041,Mouse,Periféricos,,120.0,RS
+1042,Cadeira Gamer,Móveis,,1200.0,SP
+1043,Mouse,Periféricos,2.0,120.0,MG
+1044,Cadeira Gamer,Móveis,5.0,1200.0,BA
+1045,Smartphone,Eletrônicos,1.0,1500.0,SP
+1046,Monitor,Eletrônicos,2.0,800.0,BA
+1047,Teclado,Periféricos,2.0,250.0,SC
+1048,Smartphone,Eletrônicos,,1500.0,BA
+1049,Teclado,Periféricos,1.0,250.0,MG
+1050,Mesa Office,Móveis,2.0,600.0,RJ
+1051,Monitor,Eletrônicos,1.0,800.0,RS
+1052,Monitor,Eletrônicos,,800.0,RS
+1053,Smartphone,Eletrônicos,1.0,1500.0,MG
+1054,Monitor,Eletrônicos,,800.0,BA
+1055,Cadeira Gamer,Móveis,2.0,1200.0,SP
+1056,Monitor,Eletrônicos,3.0,800.0,BA
+1057,Teclado,Periféricos,2.0,250.0,MG
+1058,Teclado,Periféricos,3.0,250.0,RS
+1059,Teclado,Periféricos,2.0,250.0,BA
+1060,Teclado,Periféricos,3.0,250.0,RS
+1061,Cadeira Gamer,Móveis,1.0,1200.0,SP
+1062,Mouse,Periféricos,2.0,120.0,
+1063,Mesa Office,Móveis,1.0,600.0,RS
+1064,Smartphone,Eletrônicos,2.0,1500.0,RJ
+1065,Teclado,Periféricos,2.0,250.0,RJ
+1066,Monitor,Eletrônicos,1.0,800.0,SC
+1067,Teclado,Periféricos,3.0,250.0,
+1068,Monitor,Eletrônicos,,800.0,RS
+1069,Mesa Office,Móveis,5.0,600.0,MG
+1070,Mesa Office,Móveis,1.0,600.0,RS
+1071,Mesa Office,Móveis,2.0,600.0,MG
+1072,Monitor,Eletrônicos,1.0,800.0,MG
+1073,Teclado,Periféricos,2.0,250.0,RJ
+1074,Mesa Office,Móveis,5.0,600.0,BA
+1075,Cadeira Gamer,Móveis,2.0,1200.0,SP
+1076,Monitor,Eletrônicos,2.0,800.0,RJ
+1077,Monitor,Eletrônicos,5.0,800.0,RJ
+1078,Teclado,Periféricos,1.0,250.0,BA
+1079,Monitor,Eletrônicos,1.0,800.0,SP
+1080,Monitor,Eletrônicos,1.0,800.0,RS
+1081,Mesa Office,Móveis,1.0,600.0,SC
+1082,Teclado,Periféricos,1.0,250.0,
+1083,Mesa Office,Móveis,,600.0,RS
+1084,Mesa Office,Móveis,,600.0,RJ
+1085,Teclado,Periféricos,,250.0,SP
+1086,Smartphone,Eletrônicos,,1500.0,RJ
+1087,Mesa Office,Móveis,3.0,600.0,MG
+1088,Cadeira Gamer,Móveis,1.0,1200.0,RJ
+1089,Cadeira Gamer,Móveis,5.0,1200.0,RJ
+1090,Monitor,Eletrônicos,3.0,800.0,RS
+1091,Cadeira Gamer,Móveis,5.0,1200.0,RS
+1092,Monitor,Eletrônicos,1.0,800.0,RS
+1093,Smartphone,Eletrônicos,5.0,1500.0,SC
+1094,Teclado,Periféricos,1.0,250.0,MG
+1095,Teclado,Periféricos,1.0,250.0,RS
+1096,Teclado,Periféricos,1.0,250.0,SP
+1097,Cadeira Gamer,Móveis,1.0,1200.0,SC
+1098,Smartphone,Eletrônicos,1.0,1500.0,BA
+1099,Cadeira Gamer,Móveis,1.0,1200.0,SP
+1100,Cadeira Gamer,Móveis,1.0,1200.0,SP
+1101,Smartphone,Eletrônicos,1.0,1500.0,RS
+1102,Smartphone,Eletrônicos,3.0,1500.0,BA
+1103,Smartphone,Eletrônicos,5.0,1500.0,BA
+1104,Smartphone,Eletrônicos,2.0,1500.0,SC
+1105,Teclado,Periféricos,1.0,250.0,BA
+1106,Mouse,Periféricos,5.0,120.0,MG
+1107,Mouse,Periféricos,1.0,120.0,RS
+1108,Smartphone,Eletrônicos,1.0,1500.0,
+1109,Mouse,Periféricos,1.0,120.0,SC
+1110,Mouse,Periféricos,,120.0,MG
+1111,Smartphone,Eletrônicos,2.0,1500.0,RJ
+1112,Mouse,Periféricos,2.0,120.0,
+1113,Cadeira Gamer,Móveis,1.0,1200.0,MG
+1114,Monitor,Eletrônicos,5.0,800.0,SC
+1115,Monitor,Eletrônicos,1.0,800.0,MG
+1116,Smartphone,Eletrônicos,2.0,1500.0,RS
+1117,Teclado,Periféricos,,250.0,
+1118,Smartphone,Eletrônicos,2.0,1500.0,RJ
+1119,Teclado,Periféricos,1.0,250.0,BA
+1120,Monitor,Eletrônicos,,800.0,SC
+1121,Smartphone,Eletrônicos,3.0,1500.0,RJ
+1122,Mesa Office,Móveis,2.0,600.0,BA
+1123,Cadeira Gamer,Móveis,1.0,1200.0,BA
+1124,Mouse,Periféricos,5.0,120.0,RS
+1125,Teclado,Periféricos,5.0,250.0,SP
+1126,Mesa Office,Móveis,,600.0,SP
+1127,Mouse,Periféricos,1.0,120.0,MG
+1128,Mouse,Periféricos,1.0,120.0,RS
+1129,Smartphone,Eletrônicos,5.0,1500.0,BA
+1130,Mouse,Periféricos,,120.0,SC
+1131,Cadeira Gamer,Móveis,3.0,1200.0,SP
+1132,Mesa Office,Móveis,1.0,600.0,
+1133,Mouse,Periféricos,1.0,120.0,SP
+1134,Smartphone,Eletrônicos,1.0,1500.0,SP
+1135,Cadeira Gamer,Móveis,5.0,1200.0,SP
+1136,Monitor,Eletrônicos,3.0,800.0,SC
+1137,Mesa Office,Móveis,2.0,600.0,RS
+1138,Mouse,Periféricos,3.0,120.0,SC
+1139,Smartphone,Eletrônicos,1.0,1500.0,
+1140,Monitor,Eletrônicos,1.0,800.0,BA
+1141,Monitor,Eletrônicos,3.0,800.0,RS
+1142,Teclado,Periféricos,1.0,250.0,RS
+1143,Cadeira Gamer,Móveis,,1200.0,RS
+1144,Mouse,Periféricos,1.0,120.0,RS
+1145,Smartphone,Eletrônicos,3.0,1500.0,SC
+1146,Teclado,Periféricos,5.0,250.0,RS
+1147,Cadeira Gamer,Móveis,3.0,1200.0,MG
+1148,Teclado,Periféricos,1.0,250.0,BA
+1149,Mesa Office,Móveis,2.0,600.0,RS
+1150,Cadeira Gamer,Móveis,2.0,1200.0,BA
+1151,Cadeira Gamer,Móveis,1.0,1200.0,MG
+1152,Mouse,Periféricos,2.0,120.0,MG
+1153,Cadeira Gamer,Móveis,2.0,1200.0,BA
+1154,Teclado,Periféricos,2.0,250.0,SP
+1155,Cadeira Gamer,Móveis,,1200.0,RJ
+1156,Mouse,Periféricos,,120.0,SP
+1157,Mouse,Periféricos,5.0,120.0,SP
+1158,Mesa Office,Móveis,,600.0,SC
+1159,Teclado,Periféricos,3.0,250.0,SP
+1160,Monitor,Eletrônicos,2.0,800.0,RS
+1161,Monitor,Eletrônicos,2.0,800.0,SC
+1162,Cadeira Gamer,Móveis,3.0,1200.0,SC
+1163,Mesa Office,Móveis,5.0,600.0,MG
+1164,Smartphone,Eletrônicos,1.0,1500.0,SP
+1165,Cadeira Gamer,Móveis,,1200.0,MG
+1166,Mesa Office,Móveis,2.0,600.0,BA
+1167,Teclado,Periféricos,2.0,250.0,RJ
+1168,Teclado,Periféricos,1.0,250.0,SC
+1169,Teclado,Periféricos,2.0,250.0,BA
+1170,Teclado,Periféricos,,250.0,BA
+1171,Teclado,Periféricos,3.0,250.0,RS
+1172,Mesa Office,Móveis,,600.0,RJ
+1173,Mesa Office,Móveis,1.0,600.0,BA
+1174,Mouse,Periféricos,5.0,120.0,BA
+1175,Monitor,Eletrônicos,1.0,800.0,RJ
+1176,Teclado,Periféricos,2.0,250.0,RJ
+1177,Smartphone,Eletrônicos,1.0,1500.0,BA
+1178,Mesa Office,Móveis,5.0,600.0,RJ
+1179,Smartphone,Eletrônicos,1.0,1500.0,BA
+1180,Smartphone,Eletrônicos,2.0,1500.0,BA
+1181,Smartphone,Eletrônicos,,1500.0,RS
+1182,Mouse,Periféricos,2.0,120.0,SP
+1183,Mesa Office,Móveis,3.0,600.0,BA
+1184,Smartphone,Eletrônicos,5.0,1500.0,MG
+1185,Teclado,Periféricos,5.0,250.0,SC
+1186,Cadeira Gamer,Móveis,1.0,1200.0,SP
+1187,Smartphone,Eletrônicos,2.0,1500.0,SP
+1188,Mouse,Periféricos,,120.0,SP
+1189,Mesa Office,Móveis,1.0,600.0,RS
+1190,Mouse,Periféricos,,120.0,BA
+1191,Smartphone,Eletrônicos,,1500.0,RS
+1192,Mesa Office,Móveis,1.0,600.0,BA
+1193,Cadeira Gamer,Móveis,,1200.0,RS
+1194,Smartphone,Eletrônicos,1.0,1500.0,RS
+1195,Mouse,Periféricos,3.0,120.0,SC
+1196,Monitor,Eletrônicos,3.0,800.0,MG
+1197,Teclado,Periféricos,1.0,250.0,RS
+1198,Mouse,Periféricos,2.0,120.0,SC
+1199,Mesa Office,Móveis,2.0,600.0,
+1200,Smartphone,Eletrônicos,,1500.0,MG
+1201,Teclado,Periféricos,2.0,250.0,RS
+1202,Smartphone,Eletrônicos,5.0,1500.0,SP
+1203,Mesa Office,Móveis,5.0,600.0,RJ
+1204,Smartphone,Eletrônicos,2.0,1500.0,RJ
+1205,Monitor,Eletrônicos,3.0,800.0,SC
+1206,Teclado,Periféricos,,250.0,RJ
+1207,Teclado,Periféricos,5.0,250.0,MG
+1208,Mesa Office,Móveis,1.0,600.0,RS
+1209,Monitor,Eletrônicos,2.0,800.0,RS
+1210,Mouse,Periféricos,1.0,120.0,SP
+1211,Smartphone,Eletrônicos,,1500.0,SC
+1212,Cadeira Gamer,Móveis,,1200.0,SP
+1213,Smartphone,Eletrônicos,3.0,1500.0,RJ
+1214,Smartphone,Eletrônicos,1.0,1500.0,SP
+1215,Mouse,Periféricos,2.0,120.0,MG
+1216,Smartphone,Eletrônicos,3.0,1500.0,RS
+1217,Monitor,Eletrônicos,2.0,800.0,RJ
+1218,Monitor,Eletrônicos,2.0,800.0,SP
+1219,Teclado,Periféricos,5.0,250.0,SC
+1220,Mesa Office,Móveis,1.0,600.0,MG
+1221,Cadeira Gamer,Móveis,3.0,1200.0,MG
+1222,Smartphone,Eletrônicos,3.0,1500.0,SP
+1223,Smartphone,Eletrônicos,3.0,1500.0,RS
+1224,Mouse,Periféricos,,120.0,SP
+1225,Mesa Office,Móveis,2.0,600.0,RJ
+1226,Monitor,Eletrônicos,2.0,800.0,SP
+1227,Cadeira Gamer,Móveis,1.0,1200.0,MG
+1228,Teclado,Periféricos,,250.0,
+1229,Monitor,Eletrônicos,2.0,800.0,RS
+1230,Mesa Office,Móveis,5.0,600.0,SC
+1231,Teclado,Periféricos,,250.0,BA
+1232,Mouse,Periféricos,1.0,120.0,SP
+1233,Mouse,Periféricos,3.0,120.0,RS
+1234,Smartphone,Eletrônicos,3.0,1500.0,
+1235,Mesa Office,Móveis,2.0,600.0,SC
+1236,Cadeira Gamer,Móveis,5.0,1200.0,MG
+1237,Teclado,Periféricos,,250.0,RS
+1238,Monitor,Eletrônicos,1.0,800.0,
+1239,Mesa Office,Móveis,,600.0,RS
+1240,Mesa Office,Móveis,2.0,600.0,RS
+1241,Mouse,Periféricos,2.0,120.0,RJ
+1242,Smartphone,Eletrônicos,1.0,1500.0,RJ
+1243,Smartphone,Eletrônicos,2.0,1500.0,MG
+1244,Teclado,Periféricos,5.0,250.0,SP
+1245,Mouse,Periféricos,1.0,120.0,RS
+1246,Mesa Office,Móveis,1.0,600.0,SC
+1247,Cadeira Gamer,Móveis,1.0,1200.0,SP
+1248,Mouse,Periféricos,1.0,120.0,SC
+1249,Teclado,Periféricos,1.0,250.0,SP
+1250,Teclado,Periféricos,2.0,250.0,MG
+1251,Mouse,Periféricos,2.0,120.0,RS
+1252,Teclado,Periféricos,2.0,250.0,RS
+1253,Mouse,Periféricos,5.0,120.0,BA
+1254,Monitor,Eletrônicos,1.0,800.0,SC
+1255,Mouse,Periféricos,1.0,120.0,SP
+1256,Mouse,Periféricos,2.0,120.0,
+1257,Teclado,Periféricos,1.0,250.0,RJ
+1258,Teclado,Periféricos,2.0,250.0,BA
+1259,Smartphone,Eletrônicos,2.0,1500.0,RJ
+1260,Smartphone,Eletrônicos,1.0,1500.0,RJ
+1261,Monitor,Eletrônicos,1.0,800.0,RJ
+1262,Smartphone,Eletrônicos,2.0,1500.0,SC
+1263,Mouse,Periféricos,1.0,120.0,SC
+1264,Teclado,Periféricos,1.0,250.0,MG
+1265,Smartphone,Eletrônicos,2.0,1500.0,MG
+1266,Smartphone,Eletrônicos,1.0,1500.0,RJ
+1267,Monitor,Eletrônicos,1.0,800.0,BA
+1268,Mesa Office,Móveis,2.0,600.0,SP
+1269,Monitor,Eletrônicos,2.0,800.0,SC
+1270,Mouse,Periféricos,1.0,120.0,BA
+1271,Teclado,Periféricos,1.0,250.0,RS
+1272,Monitor,Eletrônicos,1.0,800.0,SC
+1273,Smartphone,Eletrônicos,1.0,1500.0,SC
+1274,Teclado,Periféricos,,250.0,MG
+1275,Teclado,Periféricos,2.0,250.0,SP
+1276,Smartphone,Eletrônicos,2.0,1500.0,SP
+1277,Monitor,Eletrônicos,2.0,800.0,RS
+1278,Smartphone,Eletrônicos,2.0,1500.0,RS
+1279,Mesa Office,Móveis,5.0,600.0,SC
+1280,Teclado,Periféricos,3.0,250.0,RJ
+1281,Cadeira Gamer,Móveis,1.0,1200.0,MG
+1282,Cadeira Gamer,Móveis,2.0,1200.0,MG
+1283,Mouse,Periféricos,1.0,120.0,SC
+1284,Smartphone,Eletrônicos,1.0,1500.0,BA
+1285,Smartphone,Eletrônicos,1.0,1500.0,RJ
+1286,Mouse,Periféricos,5.0,120.0,SC
+1287,Mouse,Periféricos,1.0,120.0,RJ
+1288,Mouse,Periféricos,,120.0,RJ
+1289,Teclado,Periféricos,,250.0,RJ
+1290,Mesa Office,Móveis,1.0,600.0,SC
+1291,Smartphone,Eletrônicos,1.0,1500.0,MG
+1292,Teclado,Periféricos,1.0,250.0,MG
+1293,Mouse,Periféricos,3.0,120.0,RJ
+1294,Smartphone,Eletrônicos,1.0,1500.0,BA
+1295,Teclado,Periféricos,,250.0,SP
+1296,Mesa Office,Móveis,1.0,600.0,SC
+1297,Teclado,Periféricos,5.0,250.0,SP
+1298,Mesa Office,Móveis,2.0,600.0,BA
+1299,Mouse,Periféricos,1.0,120.0,SC
